@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A state discourse vpon the late hurt of the French king. Faithfully translated out of French, by E.A.</title>
+            <title>Discours d'estat sur la blessure du roy. English.</title>
+            <author>Pontaymeri, Alexandre de.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15346</idno><idno type="EEBO-CITATION">99848265</idno>
+  <idno type="VID">176853</idno>
+  <idno type="EEBO-PROQUEST">2240855896</idno>
+  <idno type="STC">STC 20106.5</idno>
+  <idno type="STC">ESTC S113024</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99848265e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15346)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176853)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 714:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A state discourse vpon the late hurt of the French king. Faithfully translated out of French, by E.A.</title>
+                  <title>Discours d'estat sur la blessure du roy. English.</title>
+                  <author>Pontaymeri, Alexandre de.</author>
+                  <author>Aggas, Edward.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by E. Allde] for E. Aggas, dwelling nere the west end of Saint Paules Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1595.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation of: Pontaymeri, Alexandre de.  Discours d'estat sur la blessure du roy.</note>
+                  <note>Dedication signed "Pont-aimery".  E.A. = Edward Aggas.</note>
+                  <note>Printer from STC.</note>
+                  <note>Identified as STC 13119a on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Henry --  IV, --  King of France, 1553-1610 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176853:1"/>
+            <pb facs="tcp:176853:1"/>
+            <p>A STATE DISCOVRSE vpon the late hurt of the French King. Faithfully translated out of French, by E. A.</p>
+            <figure>
+               <figDesc>Circular woodcut printer's device with floral ornaments (not in McKerrow).</figDesc>
+            </figure>
+            <p>LONDON Printed for E. Aggas, dwelling nere the West end of Saint Paules Church. 1595.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:176853:2"/>
+            <head>¶ <hi>To the most noble Lord, the Lord of Harlay,</hi> one of the Kings priuye Counsaile, &amp; of the Counsaile of Estate, knight: Prince of the Senate of <hi>Paris,</hi> and <hi>chiefe Judge of the Realme.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>Y Lord, the League is a di<g ref="char:EOLhyphen"/>sease as surely vnited to french mindes, as the feuer is vnto the corrupt humours of vnsound bodies: and in consideration hereof, I haue framed this dis<g ref="char:EOLhyphen"/>course, wherein the remedie is more apparant then the disease it selfe, in case rebellious eyes wil vouchsafe to imparte it to their mindes, who ha<g ref="char:EOLhyphen"/>uing digested the same, shall finde themselues cured &amp; me satisfied: the rather if your selfe like hereof, aswell as you are deuoted to the kinges seruice. In hope wherof I shall pray vnto God (my Lord) to graunt vnto you his grace, &amp; vn<g ref="char:EOLhyphen"/>to me yours.</p>
+            <closer>
+               <signed>Your most affection at seruant, <hi>Pont-<gap reason="illegible" resp="#pdcc" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ery.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:176853:2"/>
+            <head>A STATE DISCOVRSE, <hi>vpon the late hurt of the French</hi> KING.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>Frica</hi> no longer engendreth monsters. The Ayre of <hi>Europe</hi> conceiueth them: <hi>France</hi> nourisheth &amp; bringeth them vp: <hi>Spayne</hi> aduoweth them: and <hi>Italy</hi> sanctifieth thē: of Bastards she legitimateth them: and of simple vntimely birthes, maketh them perfect men: By them is Christiandome molested: Christian<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie scandalized &amp; the Church deuided. To be short, all order<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s so peruerted, that traitors are named Confederates: seditious persons, good Catholickes: New<g ref="char:EOLhyphen"/>ters, trustie and well aduised persons: Rebels, riualls in e<g ref="char:EOLhyphen"/>state: seruants, home-borne Children: strangers, naturall and originaryes of the Realme: yea euen supporters of the estate &amp; pillers of the Church: Euery one complayneth of the disease, but no man seeketh remedie. The Gangrene ta<g ref="char:EOLhyphen"/>keth holde of the vlcer, &amp; in liew of a burning corosiue they applie hurdes dipped in oyle and viniger. Phisitions scorne the diseased person, and the search of the Surgions penetra<g ref="char:EOLhyphen"/>teth not to the quicke: Nature seeketh to ouercome the vi<g ref="char:EOLhyphen"/>olence of the sicknesse, and no man secondeth her. The me<g ref="char:EOLhyphen"/>dicines are contrary vnto it: The crisis or iudgement is not noted: None is in doubt vpon the thing that is not feared:
+<pb n="2" facs="tcp:176853:3"/> Feare neuer surmounteth desire, desire surpasseth dutie: &amp; to conclude in one worde, all things are indifferent to a soule euil borne, &amp; to a corrupt &amp; depraued minde: We had bene lost if we had not so bene. The felicitie of <hi>France</hi> is like the <hi>Phaenix:</hi> who in her death procureth another borne like to her selfe, and out of her mortall ashes draweth a flame of life which cannot be quenched in her posteritie.</p>
+            <p>The late King of happie memory, when he relieued vs found himselfe ouer-whelmed: In easing vs. he found him selfe oppressed: and returning vs into life, himselfe dyed. He dyed I say, not in the middest of his victories: but in the beginning of his tryumphs he stumbled vpon the ruynes of his enimyes: and he found none so repugnant to his good, as those whose safetie &amp; peace himselfe had established: The soules of the rebels do yet sigh in the playnes of <hi>Jarnac</hi> and <hi>Moncontour,</hi> &amp; do arise against the murderer that slue him, because suspicion hath condemned them: yet this trespasse it self is not able to make this man guilty, euen in the sight of those for whō this great King abandoned his lyfe to so many hazards which the hea<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gnosticated vnto vs: whose ver tues were inuinci<gap reason="illegible" resp="#pdcc" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> victoryes were most certaine: to whome the <gap reason="illegible" resp="#pdcc" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of his were vnknowne: &amp; his triumphes do<gap reason="illegible" resp="#pdcc" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> &amp; daylye. With him was infamye a stranger, &amp; <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gither inuiolable &amp; most holy: Our cowardlynes<gap reason="illegible" resp="#pdcc" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eated him, whome the enimies army durst neuer <gap reason="illegible" resp="#pdcc" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Church who had lost her voice, had not he<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> rument thereto, hath iniuriously con<g ref="char:EOLhyphen"/>demned hi<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ction is extreame, the excesse stealeth away the cre<gap reason="illegible" resp="#pdcc" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> honour is ingadged: The posteritye will disadvo<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> &amp; such as shall be borne of vs into this worlde, sha<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are in a better to name themselues our children, Y<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ying of the <hi>Poet</hi> will be found true.</p>
+            <q>
+               <l>Thou <gap reason="illegible" resp="#pdcc" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oune who thy father is tearmed,</l>
+               <l>In thy <gap reason="illegible" resp="#pdcc" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> bed thy person was changed:</l>
+               <l>Or in ad<gap reason="illegible" resp="#pdcc" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> thy selfe wert conceiued,</l>
+               <l>And by <gap reason="illegible" resp="#pdcc" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ing, here wert thou receiued.</l>
+            </q>
+            <p>Againe, it <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> knowne what enterprises and practises haue bene wro<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap> against his Maiestie who now reigneth,
+<pb n="3" facs="tcp:176853:3"/> whome the heauens do so manifestlye fauour, that all that doubt thereof are Athiests, and such as doe not admire &amp; re<g ref="char:EOLhyphen"/>uerence him, euen prophane &amp; vngodly persons. We may euidently perceiue and as it were palpablye feele, that many gouernours haue their perticuler deuises concerning the K. death, &amp; easilye may we iudge how much they are deceiued, considering the onely iniustice of their conceits doth con<g ref="char:EOLhyphen"/>found them, that the apprehension thereof dooth destroye them, and that their consciences do torment them with a scourge, which ingratitude layeth about their shoulders, as an instrument destined to that onely end. I beseech you tell me, what became of the inheritours, not of the desert but of the dominions of great <hi>Alexander?</hi> All the Princes &amp; Lords of <hi>Grece</hi> thought to finde a second life in his first death: but hardly was himselfe buried, before they were all found in their graues: In stead of gaine, reaping nothing but repen<g ref="char:EOLhyphen"/>tance: for a kingdome, the desire of one: for assurance, dis<g ref="char:EOLhyphen"/>paire: for a place of retract, the tombe: &amp; for choise from bad to better, onlye death. Such were <hi>Eumenes, Demetrius, Ptolomie, Antigonus, Saleuchus,</hi> of whom some lost both liues &amp; kingdomes, &amp; some endured tribulations more forcible, and torments more cruell and bitter then death. And ther<g ref="char:EOLhyphen"/>fore that Poet, semeth to haue some reason, that said:
+<q>
+                  <l>A Captaine for glory it maye well beseeme,</l>
+                  <l>After his conquest still to sutuiue:</l>
+                  <l>Or if by fortune men daunted him dee me,</l>
+                  <l>In fame of vertue after death to reuiue.</l>
+               </q>
+            </p>
+            <p>What will become of so many ingratefull Lordes if our prince should miscarie: or what will become euen of the princes themselues, when all obedience is violated, subiecti<g ref="char:EOLhyphen"/>on buried, the ambitiō of perticuler persons encreased, malice in generall accomplished, and disorder perfected? Among the princes of <hi>Jtaly</hi> some doe acknowledge the empire, and some are of the popes homage: They can encurre no displea<g ref="char:EOLhyphen"/>sure neyther susteine any iniury, but either the one or the o<g ref="char:EOLhyphen"/>ther will support them: but who shall protect these men, considering that only one <hi>Charles</hi> the fift triumphed ouer all the princes of <hi>Germanie</hi> within the space of four monthes,
+<pb n="4" facs="tcp:176853:4"/> who in effect &amp; apparance had all bene lost, had it not beene for the succour that they receiued from <hi>Henry</hi> the second? If they frame the substance or bodye of an army, who shall be the head? If they haue none, who can fight without a head? But if there be a head, who will endure it, considering they coulde not brooke a lawfull King? And in the meane tyme what shall become of the people? Shall not they be led as beares or bulles by the noses to be the pastimes of the passi<g ref="char:EOLhyphen"/>ons of some <hi>Chastelaine</hi> or warder, in whose forhead tirannie shalbe written with the verie blood of his fellow <hi>Citizens?</hi> yea whereto shall the church be reduced, when euery souldi<g ref="char:EOLhyphen"/>er wilbe curat of his owne village, &amp; euery Captaine Byshop of his owne garison? Where I beseech you shall wee finde la<g ref="char:EOLhyphen"/>bour, &amp; due reward for the same? May tirantes rest in sastie, where kinges are debarred that felicitie? will men practize that course toward them which they haue abhorred toward others? Counsailers &amp; Presidēts should become factionaries to those that liue vnder their iurisdictions: and they that are the protection of kinges should liue vnder the halbarde of some Corporal, or paraduenture of some watchman or scout.</p>
+            <p>All this had almost come to passe in the hurt of our King (whom heauen would in our behalfs immortalize, in case our selues were as worthy as his desertes doe bind vs to wish it &amp; our necessitie do inuite vs) His death would haue quailed our libertie: his fall would haue ouerwhelmed our felicitie: his losse would haue made desolate our families: his absence woulde haue acquainted vs with that which wee feare: his ship wrack would haue swallowed vs vp: and the breaking of so great a body would haue bred a rocke in <hi>Europe</hi> where<g ref="char:EOLhyphen"/>vpon Saint Peters ship would haue bene quite split and vt<g ref="char:EOLhyphen"/>terly wrecked. Beleeue me not my maisters: I woulde to God I might be found a lyer in all that I am to tell you. And this is it: namely that certaine Capucines, Peuilians &amp; other fryers of this towne dare freely confesse that they neuer pray vnto God for the King: because (say they) the pope hath not absolued him: as if it were lawfull for him to condemne in<g ref="char:EOLhyphen"/>nocency: to iudge of that which is not in controuersie: &amp; to alienate from Gods grace the person that in such humilitie
+<pb n="5" facs="tcp:176853:4"/> doth beg it: That surely ther is superstition in this so vaine &amp; presumptuous rigour, considering all counsailes doe mayn<g ref="char:EOLhyphen"/>taine that it is not the Bull that excommunicateth the man, but the fault: also that the fault is taken away when repen<g ref="char:EOLhyphen"/>tance taketh place, which serueth as a beginning of absoluti<g ref="char:EOLhyphen"/>on and an end of punishment (my speech is of the same which spirituall Iudges may inflict) why doe they therefore ende<g ref="char:EOLhyphen"/>uour to bewitch our soules, by ministring vnto them a food so vnseasonable for a christian, who ought to pardon the of<g ref="char:EOLhyphen"/>fence euen before it bee accomplished, and rather to com<g ref="char:EOLhyphen"/>plaine and grow bitter against the peruers nature of the per<g ref="char:EOLhyphen"/>secuter, then to returne vpon the persecuted: for it is writen: <hi>I will wait vntill the Sunne goe downe, and J will be a light vnto his steps, least he should fall.</hi> The Curates of all parishes do powre foorth their praiers to God for the King: All lawes both of God and man doe ordaine the same: And his benefites doe in generall bind vs thereunto: yet shall these men as re<g ref="char:EOLhyphen"/>bels and men guiltie of treason make a diuorce in the church &amp; escape, I wil not say vnpunished, but euē vnreproued? The kinges subiectes doe feed them: yea the kinges them selues haue established them: and now shall they vpon some bar<g ref="char:EOLhyphen"/>barous error, togither with a malitious pretence, free them<g ref="char:EOLhyphen"/>selues from that duety wherto nature bindeth them and the generall societie of men doth call them? Shall they commit such impietie only in France: because the contempt of the lawes &amp; royal dignitie is so great that the princes are not re<g ref="char:EOLhyphen"/>garded but vpō humours: neither the laws obserued, but for a fashion, &amp; yet that also rather in aparance thē in effect? The simple people whose minde is not capable of any profound reasoning &amp; which beleueth no more then itself imagineth, is incontinently drawen to the purpose of these fryers, who for bread doe preach vnto them a reuolt: terrifying the wea<g ref="char:EOLhyphen"/>ker consciences, &amp; shaking the beast founded by I wot not what manner of threatning, which serueth as a torture to de<g ref="char:EOLhyphen"/>uout consciences, an ambush to the kings life, trouble to the common wealth, and argument of superstition and offence to the Church, whose iust &amp; holy weapons are neuer emploi<g ref="char:EOLhyphen"/>ed against such as acknowledge their dueties to her, and li<g ref="char:EOLhyphen"/>uing vnder her standerd are resolued there vnder to fight, e<g ref="char:EOLhyphen"/>uen
+<pb n="6" facs="tcp:176853:5"/> to the death. Can any thing be more impertinent or of a more cowardly disposition, then that some of the kings of<g ref="char:EOLhyphen"/>ficers who barking at the shadowes of Miters &amp; red hattes with eloquence rather artificiall then naturall &amp; with farther fetches then reason, haue hitherto maintained the Iesuites with such feruency that they enflamed the speches of theyr maisters faithfull seruants &amp; conuerted thē into smoke, euē at such time as the kings life was in question, &amp; that mē pro<g ref="char:EOLhyphen"/>tested against them in respect of the smale accompt that they made, to the end they might rest in credite with the pope &amp; his formall creatures the Iesuites? A little thing woulde make me to tearme you the vnthankfull Pyes or layes of this great cadge: I haue couradge enough to vndertake it &amp; more then sufficient argument to put it in effect: But I will for<g ref="char:EOLhyphen"/>beare you, for the honor of <hi>France,</hi> as also for that albeit yee escape the hand of man, yet is not Gods hand subiect to any palsey: you shal haue no greater enemies then your selues: &amp; albeit your offices &amp; dignities doe free you from temporall punishment, yet wil men iudge you worthy therof. For the punishment make not the martir but the cause: but it is en<g ref="char:EOLhyphen"/>nough that your ententes do make you parties, &amp; that al the worlde doth see that you haue wrongfully supported the Ie<g ref="char:EOLhyphen"/>suites, out of whose house as out of an Arcenal or storehouse is issued that accursed piece, who in only one person had al<g ref="char:EOLhyphen"/>most with lightening kindled al <hi>France</hi> from whēce al <hi>Europe</hi> should haue bene set in combustion &amp; in such vniuersall de<g ref="char:EOLhyphen"/>solation your selues (as I think) haue bene brought into ruine. yet doth one thing put me in comfort &amp; make mee to hope wel: namely that our maisters of <hi>Paris</hi> haue in this last essay of treason made full proofe of their fidelitie. For there was not any familye but re<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oiced at the preseruation of the king and the punishment of the paricide. The salutations by bonfyers &amp; praiers, in that respect powred foorth, do induce a perpetual obliuion of al former transgressiōs of the enhabi<g ref="char:EOLhyphen"/>tants of <hi>Paris,</hi> who in one onely might haue made a perfect day of that credit which his maiesty is to take of their seruice, wherein affection sitteth as president, with so much truthe, that the testimonie therof is wonderfull, &amp; the hope of their continuance certaine and infallible.</p>
+            <trailer>Finis.</trailer>
+            <pb facs="tcp:176853:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
